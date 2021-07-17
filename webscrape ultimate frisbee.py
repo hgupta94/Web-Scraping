@@ -5,7 +5,6 @@ Created on Tue Jul 13 14:35:35 2021
 @author: hirsh
 """
 
-start = dt.datetime.now()
 import pandas as pd
 import openpyxl
 import datetime as dt
